@@ -1,0 +1,6 @@
+{
+  "name": "CODEMENTER AI",
+  "description": "Modern interactive coding education platform for students with structured courses, code playground, quizzes, gamification, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
